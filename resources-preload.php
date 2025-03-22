@@ -16,7 +16,7 @@ $preload_resources = array(
   array(
     'url' => 'https://simplenet.io/wp-content/uploads/2025/01/logo-eb.svg', // Replace with the actual logo URL
     'as' => 'image',
-    'type' => 'image/svg', // Adapt according to the logo format (png, jpg, svg, etc.)
+    'type' => 'image/svg+xml', // Adapt according to the logo format (png, jpg, svg, etc.)
     'priority' => 'high'
   ),
   // Menu font
